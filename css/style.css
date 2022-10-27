@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1rem;
+}
+
+h4 {
+    font-size: 0.5rem;
+}
+
+.alinear {
+    text-align: center;
+}
+
+.alinear-fondo {
+    text-align: end;
+}
+
+.dark {
+    background-color: rgb(3, 3, 3);
+    color: rgb(3, 40, 255);
+}
+
+.light {
+    background-color: bisque;
+    color: black;
+}
